@@ -1,1 +1,1 @@
-"divide 10/4"
+"divide 10/6"
