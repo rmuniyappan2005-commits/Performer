@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-code from feature/division
-=======
-code from main
->>>>>>> main
+print(10/6)
