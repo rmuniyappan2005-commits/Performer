@@ -1,1 +1,5 @@
-"divide 10/6"
+<<<<<<< HEAD
+code from feature/division
+=======
+code from main
+>>>>>>> main
